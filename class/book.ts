@@ -3,7 +3,7 @@ class Book {
   author: string;
   price: number
 }
- 
+
 const book = new Book();
 book.id = 0;
 book.author = "Tanvir";
